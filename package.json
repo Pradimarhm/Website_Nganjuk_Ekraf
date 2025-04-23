@@ -1,0 +1,17 @@
+{
+  "name": "nganjuk_ekraf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "sass src/scss/custom.scss public/style.css",
+  "watch:css": "sass --watch src/scss/custom.scss public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "sass": "^1.87.0"
+  }
+}
